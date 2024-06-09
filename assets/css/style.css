@@ -68,7 +68,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #000000;
   overflow-y: auto;
 }
 
@@ -230,7 +230,7 @@ h6 {
 #kaurmain {
   width: 100%;
   height: 100vh;
-  background: url("../img/headshot.jpg") top center;
+  background: url("../img/kaurmain.jpg") top center;
   background-size: cover;
 }
 
@@ -314,7 +314,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #173b6c;
+  color: #002c69;
 }
 
 .section-title h2::after {
